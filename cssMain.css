@@ -1,0 +1,18 @@
+#projectTitle{
+	background-color: #4F94CD;
+	text-align: center;
+	border-style: solid 12px;
+	border-radius: 72px;
+	color: #800000;
+	font-size: 48px;
+}
+
+#mainCanvas{
+	border: solid 3px  #4F94CD;
+	background-color:#FFFFFF;
+	position: absolute;
+    top: 20%;
+    left: 16%;
+}
+
+
